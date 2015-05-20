@@ -3,8 +3,8 @@
     "description": "A React table component designed to allow presenting thousands of rows of data.",
     "version": "0.1.2",
     "main": [
-        "./fixed-data-table.css",
-        "./fixed-data-table.js"
+        "fixed-data-table.css",
+        "fixed-data-table.js"
     ],
     "license": "MIT",
     "dependencies": {
