@@ -1,13 +1,25 @@
 {
-    "name": "fixed-data-table",
-    "description": "A React table component designed to allow presenting thousands of rows of data.",
-    "version": "0.1.2",
-    "main": [
-        "fixed-data-table.css",
-        "fixed-data-table.js"
-    ],
-    "license": "MIT",
-    "dependencies": {
-        "react": ">=0.12.0 <0.14.0"
-    }
+  "name": "fixed-data-table",
+  "description": "A React table component designed to allow presenting thousands of rows of data.",
+  "version": "0.1.2",
+  "main": [
+    "fixed-data-table.css",
+    "fixed-data-table.js"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "react": ">=0.12.0 <0.14.0"
+  },
+  "homepage": "https://github.com/temnoregg/fixed-data-table",
+  "keywords": [
+    "react",
+    "fixed-data-table"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
